@@ -176,7 +176,11 @@ header {
   .hero-title {
     width: 100%;
     font-size: 28px;
+    text-align: center;
   }
+
+  .hero-text {
+    text-align: center;
 
   .hero-left {
     margin-top: 50px;
