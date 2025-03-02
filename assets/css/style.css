@@ -331,6 +331,10 @@ header {
 }
 
 @media (max-width: 768px) {
+  .about {
+    padding-bottom: 15px;
+  }
+  
   .row-about {
     flex-direction: column;
   }
