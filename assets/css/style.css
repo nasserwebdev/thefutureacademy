@@ -179,7 +179,7 @@ header {
   }
 
   .hero-left {
-    display: none;
+    margin-top: 50px;
   }
 }
 
@@ -253,6 +253,10 @@ header {
     padding: 50px 0;
   }
 }
+.feat-col {
+  width: 100%;
+}
+
 .feature {
   border: none !important;
   box-shadow: 0 0 5px #ccc;
