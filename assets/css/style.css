@@ -179,7 +179,7 @@ header {
   }
 
   .hero-left {
-    margin-top: 50px;
+    display: none;
   }
 }
 
@@ -251,10 +251,6 @@ header {
 @media (max-width: 768px) {
   .features {
     padding: 50px 0;
-  }
-
-  .feat-col {
-    width: 49%;
   }
 }
 .feature {
@@ -336,8 +332,7 @@ header {
   }
 
   .about-right {
-    margin-top: 50px;
-    order: 2;
+    display: none;
   }
 
   .about-left {
