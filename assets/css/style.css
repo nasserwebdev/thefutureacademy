@@ -181,6 +181,7 @@ header {
 
   .hero-text {
     text-align: center;
+  }
 
   .hero-left {
     margin-top: 50px;
@@ -256,9 +257,10 @@ header {
   .features {
     padding: 50px 0;
   }
-}
-.feat-col {
-  width: 100%;
+
+  .feat-col {
+    width: 100%;
+  }
 }
 
 .feature {
