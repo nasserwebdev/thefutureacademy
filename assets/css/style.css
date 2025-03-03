@@ -227,7 +227,7 @@ header {
 
 @media (max-width: 768px) {
 .statistics {
-  margin-top: 70px;
+  margin-top: 300px;
   padding-top: 20px;
   margin-bottom: 0;
 }
