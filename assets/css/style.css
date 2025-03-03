@@ -440,6 +440,12 @@ footer .copyright {
   font-size: 15px;
 }
 
+.newsletter .in-email:focus,
+.newsletter .in-email:hover {
+  box-shadow: none !important;
+  border: 1px solid var(--primary-color);
+}
+
 footer .copyright {
   border-top: 1px solid #ccc;
 }
