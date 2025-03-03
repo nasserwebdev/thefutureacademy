@@ -220,12 +220,6 @@ header {
   color: var(--secondary-color);
 }
 
-@media (max-width: 768px) {
-  .statistics {
-    margin-bottom: 0;
-  }
-}
-
 .stat:not(:last-child) {
   border-left: 1px solid var(--secondary-color);
 }
@@ -234,6 +228,7 @@ header {
 .statistics {
   margin-top: 70px;
   padding-top: 20px;
+  margin-bottom: 0;
 }
 
 .stat {
