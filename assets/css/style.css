@@ -210,6 +210,11 @@ header {
     display: none;
   }
 }
+
+.images img {
+  width: 43%;
+}
+
 .custom-radius {
   border-radius: 50% 0 0 50%;
 }
@@ -228,7 +233,7 @@ header {
 
 @media (max-width: 768px) {
 .statistics {
-  margin-top: 70px;
+  margin-top: 150px;
   padding-top: 20px;
   margin-bottom: 0;
 }
