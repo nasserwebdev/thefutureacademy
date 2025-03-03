@@ -225,7 +225,6 @@ header {
   background: linear-gradient(135deg, #ffc000, #cc9a00);
   color: var(--secondary-color);
   margin-top: 100px;
-  margin-bottom: 30px;
 }
 
 .stat:not(:last-child) {
