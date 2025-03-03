@@ -209,10 +209,10 @@ header {
   .images::after {
     display: none;
   }
-}
 
-.images img {
+  .images img {
   width: 43%;
+}
 }
 
 .custom-radius {
