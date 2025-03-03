@@ -164,6 +164,7 @@ header {
 
 .hero-text {
   font-size: 20px;
+  line-height: 1.6em;
 }
 
 @media (max-width: 768px) {
@@ -191,10 +192,10 @@ header {
 .images::after {
   content: "";
   position: absolute;
-  top: -65px;
-  left: -65px;
-  width: 230px;
-  height: 230px;
+  top: -55px;
+  left: -55px;
+  width: 207px;
+  height: 207px;
   border-radius: 50%;
   background-color: #ffbf00de;
   z-index: -1;
