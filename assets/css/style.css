@@ -192,7 +192,7 @@ header {
 .images::after {
   content: "";
   position: absolute;
-  top: -55px;
+  top: -50px;
   left: -55px;
   width: 207px;
   height: 207px;
